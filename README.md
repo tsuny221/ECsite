@@ -1,24 +1,12 @@
-# README
+# ECsite
+RailsによるECサイトの作成練習
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## 機能一覧
 
-Things you may want to cover:
+## 使用言語
+Ruby on Rails
 
-* Ruby version
+## 使用方法
 
-* System dependencies
+## 参照
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
